@@ -10,6 +10,6 @@ Demo SS:
 ### Usage of GitHub Copilot:
 1. For helping with the usage of OpenWeatherMap API, to fetch the cuurent weather location, for a particular city. 
 2. For Data Parsing, in order to parse the JSON Response, into a Python Dictionary, which is more readable and easy to interpret as well as extract city name, from.
-3. For Error Handling: Printing the Appropriate Message, in case of an Error, when the Response Status Code is not 200.
+3. For Error Handling: Printing the Appropriate Message, in case of an Error, when the Response Status Code while processing an HTTP Request, sent to a REST API, is not 200.
 
 
