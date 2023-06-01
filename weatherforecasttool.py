@@ -72,7 +72,7 @@ def get_location_weather():
     
 root = tk.Tk()
 root.title("Weather Forecasting Tool")
-root.geometry("400x200")
+root.geometry("600x300")
 
 input_label = tk.Label(root, text="Enter city or IP address:")
 input_label.pack()
